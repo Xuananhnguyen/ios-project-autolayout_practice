@@ -34,6 +34,10 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     /// xin chao 2
     /// xin chao 3
     /// xin chao 4
+    /// xin chao 9
+    /// xin chao 10
+    /// xin chao 11
+    /// xin chao 12
 
 }
 
